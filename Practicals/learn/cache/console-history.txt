@@ -1,0 +1,36 @@
+(await box.retrieve()).toString()
+await box.store(420);
+const box = await Box.attach('0x3A15Cd0791CD35cC49f86B8c0d41be9BF62dC953');
+const Box = await ethers.getContractFactory('Box');
+accounts = await ethers.provider.listAccounts()
+./scripts/index.js
+npx hardhat run --network localhost ./scripts/index.js
+(await box.retrieve()).toString()
+await box.retrieve()
+await box.retrive()
+await box.store(42)
+await box.store(42) { hash:'0x149dfc6a4ceac8a98629bd4eaf2a28fad6f6c434af63edfecb1fb35e13027ae4' 
+await box.store(42) { hash:'0x149dfc6a4ceac8a98629bd4eaf2a28fad6f6c434af63edfecb1fb35e13027ae4' }
+await box.store(42){hash:'0x149dfc6a4ceac8a98629bd4eaf2a28fad6f6c434af63edfecb1fb35e13027ae4' }
+await box.store(42){}
+const box = await Box.attach('0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512')
+const Box = await ethers.getContractFactory('Box')
+clear
+'42'
+> (await box.retrieve()).toString()
+BigNumber { _hex: '0x2a', _isBigNumber: true }
+ await box.retrieve(); BigNumber { _hex: '0x2a', _isBigNumber: true }
+ await box.retrieve() BigNumber { _hex: '0x2a', _isBigNumber: true }
+BigNumber { _hex: '0x2a', _isBigNumber: true }
+ await box.retrieve()
+> await box.retrieve()
+BigNumber { _hex: '0x2a', _isBigNumber: true }
+> await box.retrieve()
+}
+  hash: '0x3d86c5c2c8a9f31bedb5859efa22d2d39a5ea049255628727207bc2856cce0d3',
+{
+> await box.store(42)
+await box.store(1);
+await box.store(42)
+const box = await Box.attach(0x5FbDB2315678afecb367f032d93F642f64180aa3);
+const Box = await ethers.getContractFactory('Box');
